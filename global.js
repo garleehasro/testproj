@@ -9,7 +9,7 @@ module.exports = {
  'human2': function(num1,num2){
    var num3 = 100;
     this.show = function(){
-        return  num1 + num2 + num3 + 4;
+        return  num1 + num2 + num3 + 5;
     };
 
  }
